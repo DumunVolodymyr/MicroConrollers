@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Нова папка\Думин\Laba5\lab5\lab5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Нова папка\Думин\Laba5\lab5\lab5\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Нова папка\Думин\Laba5\lab5\lab5\Debug\lab5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab5.map</FILE>
+  <FILE>lab5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Reset><FILE>C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Нова папка\Думин\Laba5\lab5\lab5\main.asm</FILE><LINE>55</LINE></Reset>
+  <TIMER4_COMPA><FILE>C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Нова папка\Думин\Laba5\lab5\lab5\main.asm</FILE><LINE>99</LINE></TIMER4_COMPA>
+  <main><FILE>C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Нова папка\Думин\Laba5\lab5\lab5\main.asm</FILE><LINE>109</LINE></main>
+  <Algo1><FILE>C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Нова папка\Думин\Laba5\lab5\lab5\main.asm</FILE><LINE>122</LINE></Algo1>
+  <Algo2><FILE>C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Нова папка\Думин\Laba5\lab5\lab5\main.asm</FILE><LINE>154</LINE></Algo2>
+  <Start1><FILE>C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Нова папка\Думин\Laba5\lab5\lab5\main.asm</FILE><LINE>136</LINE></Start1>
+  <Start2><FILE>C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Нова папка\Думин\Laba5\lab5\lab5\main.asm</FILE><LINE>144</LINE></Start2>
+  <EndAlgo1><FILE>C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Нова папка\Думин\Laba5\lab5\lab5\main.asm</FILE><LINE>130</LINE></EndAlgo1>
+  <Buzzer><FILE>C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Нова папка\Думин\Laba5\lab5\lab5\main.asm</FILE><LINE>174</LINE></Buzzer>
+  <EndAlgo2><FILE>C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Нова папка\Думин\Laba5\lab5\lab5\main.asm</FILE><LINE>168</LINE></EndAlgo2>
+  <delay200ms><FILE>C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Нова папка\Думин\Laba5\lab5\lab5\main.asm</FILE><LINE>180</LINE></delay200ms>
+  <delay><FILE>C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Нова папка\Думин\Laba5\lab5\lab5\main.asm</FILE><LINE>185</LINE></delay>
+ </LABELS>
+</ASSEMBLER_INFO>
